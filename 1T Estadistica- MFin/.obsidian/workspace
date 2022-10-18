@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "21ca1f7fc5b8654c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e819bb1a5f58e499",
+        "type": "leaf",
+        "dimension": 51.532725766362894,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Clase 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "650ab9eac82971f6",
+        "type": "leaf",
+        "dimension": 48.467274233637106,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.CAP1 Estadisticas descriptivas y analisis tecnico 2022-2.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72560c69bd9c59ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "80860763d3ca1a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80c959de933db1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19332d792e5adc5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173
+  },
+  "right": {
+    "id": "ee38ceadbde941c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b94ff087fe3a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2ba76ca0ee8516",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clase 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e819bb1a5f58e499",
+  "lastOpenFiles": [
+    "Clase 1.md",
+    "01.CAP1 Estadisticas descriptivas y analisis tecnico 2022-2.pdf"
+  ]
+}
